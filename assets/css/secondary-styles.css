@@ -17,7 +17,7 @@
 .secondary-content {
     color: #024e76;
     width: 80%;
-    margin: center;
+    margin: auto
 }
 .h3 {
     font-size: 25px;
@@ -28,10 +28,10 @@ p {
     line-height: 1.5;
     margin: 20px 0 20px 0;
 }
-.ul {
+.secondary-content ul {
     margin: 15px 20px 15px 20px;
 }
-.li {
+.secondary-content li {
     color: #39a6b2;
     margin: 10px 0 10px 0;
 }
